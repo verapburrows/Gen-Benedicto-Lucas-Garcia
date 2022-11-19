@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://verapburrows.github.io/Gen-Benedicto-Lucas-Garcia/general-benedicto-lucas-garcia/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "General Benedicto Lucas Garcia" ] },
+    "homepage": [
+      {
+        "id": "https://hrdi.lib.utexas.edu/catalog?f%5Bmods_relatedItem_titleInfo_title_UTLDAMSDigitalcollection_host_s%5D%5B%5D=Jes%C3%BAs+Tec%C3%BA+Osorio%27s+Footage+of+Rabinal%2C+Guatemala&amp;q=Guatemala&amp;search=&amp;search_field=search",
+        "type": "Text",
+        "label": { "en": [ "General Benedicto Lucas Garcia" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://hrdi.lib.utexas.edu/catalog?f%5Bmods_relatedItem_titleInfo_title_UTLDAMSDigitalcollection_host_s%5D%5B%5D=Jes%C3%BAs+Tec%C3%BA+Osorio%27s+Footage+of+Rabinal%2C+Guatemala&q=Guatemala&search=&search_field=search",
+        "type": "Agent",
+        "label": { "en": [ "The University of Texas at Austin" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://verapburrows.github.io/Gen-Benedicto-Lucas-Garcia/general-benedicto-lucas-garcia/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 7406.0,
+        "items": [
+          {
+            "id": "https://verapburrows.github.io/Gen-Benedicto-Lucas-Garcia/general-benedicto-lucas-garcia/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://verapburrows.github.io/Gen-Benedicto-Lucas-Garcia/general-benedicto-lucas-garcia/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://curio.lib.utexas.edu/assets/DAMS/hrdi/hrdi_5ef70573-293e-4b73-8c38-313a1dab4bea/manifests/3/hrdi_5ef70573-293e-4b73-8c38-313a1dab4bea.json",
+                    "duration": 7406.0
+                },
+                "target": "https://verapburrows.github.io/Gen-Benedicto-Lucas-Garcia/general-benedicto-lucas-garcia/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
